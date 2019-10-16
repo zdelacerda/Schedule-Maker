@@ -1,0 +1,5 @@
+#Format -
+#Name:Position:Hours:Start:End
+Tristin:Manager:10:6:10
+Zephren:Driver:5:11:14
+Alyssa:In-Shop:50:16:20
